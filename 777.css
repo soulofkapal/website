@@ -46,7 +46,7 @@
   }
 
   .rectangle-5 {
-    background-color: #d6c22c;
+    background-color: aqua;
     height: 50px;
     width: 300px;
     border-radius: 10px;
@@ -63,7 +63,7 @@
   }
 
   .rectangle-7 {
-    background-color: #d6c22c;
+    background-color: darkviolet;
     height: 50px;
     width: 300px;
     border-radius: 10px;
@@ -72,9 +72,9 @@
   }
 
   .text-1 {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .text-2 {
-    font-size: 30px;
+    font-size: 25px;
   }
